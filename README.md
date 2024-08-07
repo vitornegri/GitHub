@@ -2,4 +2,4 @@
 
 
 
-![](hamster.png)
+![](cat-silly.gif)
